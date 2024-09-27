@@ -11,8 +11,8 @@ Follow these steps to set up and run the project locally.
 
     ```bash
     GEMINI_API_KEY=your-gemini-api-key-here
-    
-### Step 2: Install Dependencies
+
+ ### Step 2: Install Dependencies
     ```bash
     npm install
 
