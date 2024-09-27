@@ -1,0 +1,46 @@
+{
+  "name": "medical-report-analysis",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon -e js,mjs,cjs,json,html server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gouravsaha12/medical-report-analysis.git"
+  },
+  "keywords": [
+    "medical",
+    "report",
+    "gemini",
+    "ai",
+    "node",
+    "javascript",
+    "html",
+    "tailwind",
+    "express",
+    "google"
+  ],
+  "author": "Gourav Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gouravsaha12/medical-report-analysis/issues"
+  },
+  "homepage": "https://github.com/Gouravsaha12/medical-report-analysis#readme",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "autoprefixer": "^10.4.20",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.6",
+    "path": "^0.12.7",
+    "pdfkit": "^0.15.0",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.12"
+  }
+}
